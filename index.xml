@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Bruno F. Lourenço</title>
-    <link>bflourenco.github.io/</link>
+    <link>/</link>
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="bflourenco.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New preprint &#34;Convergence analysis under consistent error bounds&#34;</title>
-      <link>bflourenco.github.io/news/2020/08/29/preprint-convergence-analysis/</link>
+      <link>/news/2020/08/29/preprint-convergence-analysis/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/news/2020/08/29/preprint-convergence-analysis/</guid>
+      <guid>/news/2020/08/29/preprint-convergence-analysis/</guid>
       <description>Available at OO and arxiv
 Authors Tianxiang Liu (RIKEN-AIP) and Bruno F. Lourenço (ISM)
 Abstract We introduce the notion of consistent error bound functions which provides a unifying framework for error bounds for multiple convex sets. This framework goes beyond the classical Lipschitzian and Hölderian error bounds and includes, for example, the error bounds obtainable under the theory of amenable cones. One of the main results we prove is that the convergence rate of several algorithms for feasibility problems can be expressed explicitly in terms of the underlying consistent error bound function.</description>
@@ -24,10 +24,10 @@ Abstract We introduce the notion of consistent error bound functions which provi
     
     <item>
       <title>New preprint &#34;A simplified treatment of Ramana&#39;s exact dual for semidefinite programming&#34;</title>
-      <link>bflourenco.github.io/news/2020/06/17/preprint-ramana-dual/</link>
+      <link>/news/2020/06/17/preprint-ramana-dual/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/news/2020/06/17/preprint-ramana-dual/</guid>
+      <guid>/news/2020/06/17/preprint-ramana-dual/</guid>
       <description>Available at OO
 Authors Bruno F. Lourenço (ISM) and Gábor Pataki (UNC-Chapel Hill)
 Abstract In semidefinite programming the dual may fail to attain its optimal value and there could be a duality gap, i.e., the primal and dual optimal values may differ. In a striking paper, Ramana proposed a polynomial size extended dual that does not have these deficiencies and yields a number of fundamental results in complexity theory. The known expositions of Ramana&amp;rsquo;s dual tend to be somewhat technical; here we give a concise and self-contained derivation, relying mostly on elementary linear algebra.</description>
@@ -35,10 +35,10 @@ Abstract In semidefinite programming the dual may fail to attain its optimal val
     
     <item>
       <title>New preprint &#34;Random projection of Linear and Semidefinite problem with linear inequalities&#34;</title>
-      <link>bflourenco.github.io/news/2020/06/01/preprint-random-projection/</link>
+      <link>/news/2020/06/01/preprint-random-projection/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/news/2020/06/01/preprint-random-projection/</guid>
+      <guid>/news/2020/06/01/preprint-random-projection/</guid>
       <description>Available at arxiv
 Authors Pierre-Louis Poirion (RIKEN-AIP), Bruno F. Lourenço (ISM) and Akiko Takeda (University of Tokyo)
 Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps that project a set of points of a vector space into a space of much lower dimension such that the Euclidean distance between these points is approximately preserved. This lemma has been previously used to prove that we can randomly aggregate, using a random matrix whose entries are drawn from a zero-mean sub-Gaussian distribution, the equality constraints of an Linear Program (LP) while preserving approximately the value of the problem.</description>
@@ -46,37 +46,37 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
     
     <item>
       <title>Moved to the Institute of Statistical Mathematics</title>
-      <link>bflourenco.github.io/news/2020/04/01/moved-to-ism/</link>
+      <link>/news/2020/04/01/moved-to-ism/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/news/2020/04/01/moved-to-ism/</guid>
+      <guid>/news/2020/04/01/moved-to-ism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>bflourenco.github.io/cv/</link>
+      <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/cv/</guid>
+      <guid>/cv/</guid>
       <description>Employment  April 2020 - : Associate Professor at The Institute of Statistical Mathematics, Department of Statistical Inference and Mathematics, Mathematical Optimization Group April 2018 - March 2020: Assistant Professor at University of Tokyo, Department of Mathematical Informatics, Mathematical Programming Laboratory(数理5研). April 2018 - : Visiting fellow at Seikei Education and Research Center for Sustainable Development. April 2016 - March 2018: Assistant Professor at Seikei University, Department of Computer and Information Sciences, Laboratory of Modeling and Algorithms  Education   PhD in Mathematical and Computing Sciences</description>
     </item>
     
     <item>
       <title>Prospective Students</title>
-      <link>bflourenco.github.io/students/</link>
+      <link>/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/students/</guid>
+      <guid>/students/</guid>
       <description>My main affiliation is the Institute of Statistical Mathematics (ISM). Students supervised by ISM researchers are not affiliated directly to ISM, instead they are affiliated to SOKENDAI (The Graduate University for Advanced Studies). Therefore, if you want to be supervised by an ISM researcher you must pass the entrance examination for the Department of Statistical Sciences at SOKENDAI. However, after passing the examinations, research is actually conducted at the ISM facilities in Tachikawa, Tokyo.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>bflourenco.github.io/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/publications/</guid>
+      <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
 Articles Bruno F. Lourenço. Amenable cones: error bounds without constraint qualifications November 2017. Accepted at Mathematical Programming.
 [OO, arxiv]
@@ -86,10 +86,10 @@ Masaru Ito; Bruno F. Lourenço. The automorphism group and the non-self-duality 
     
     <item>
       <title>武流野・フィゲラ・ロウレンソ</title>
-      <link>bflourenco.github.io/jp/</link>
+      <link>/jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>bflourenco.github.io/jp/</guid>
+      <guid>/jp/</guid>
       <description>准教授 統計数理研究所/総合研究大学院大学
 数理・推論研究系/統計科学専攻か
 数理最適化グループ
