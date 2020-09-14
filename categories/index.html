@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Categories | Bruno F. Lourenço</title>
+    <link rel="stylesheet" href="/bflourenco.github.io/css/style.css" />
+    <link rel="stylesheet" href="/bflourenco.github.io/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/bflourenco.github.io/">Home</a></li>
+      
+      <li><a href="/bflourenco.github.io/publications/">Publications</a></li>
+      
+      <li><a href="/bflourenco.github.io/cv/">CV</a></li>
+      
+      <li><a href="/bflourenco.github.io/students/">Prospective Students</a></li>
+      
+      <li><a href="/bflourenco.github.io/jp/">日本語</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+
+<h1>Categories</h1>
+
+<ul class="terms">
+  
+  <li>
+    <a href="bflourenco.github.io/categories/news/">News</a> (4)
+  </li>
+  
+</ul>
+
+  <footer>
+  <script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\$[^$]/.test(text) && /[^$]\$$/.test(text)) {
+        text = text.replace(/^\$/, '\\(').replace(/\$$/, '\\)');
+        code.textContent = text;
+      }
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$(.|\s)+\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+          parent.firstChild.style.border = 'none';
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
+  
+  <hr/>
+  © 2020 | <a href="https://scholar.google.com/citations?user=Ie12d7IAAAAJ">Google Scholar</a> |  <a href="https://orcid.org/0000-0003-2369-0107">ORCID</a> | Built with <a href="https://gohugo.io/">Hugo</a> and theme <a href="https://github.com/yihui/hugo-xmin">xmin</a>
+  
+  </footer>
+  </body>
+</html>
+
