@@ -6,10 +6,15 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The paper &#34;Generalized subdifferentials of spectral functions over Euclidean Jordan algebras&#34; was accepted at the SIAM Journal on Optimization</title>
+      <link>/news/2020/10/19/accepted-spectral-functions/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/10/19/accepted-spectral-functions/</guid>
+      <description>Our paper co-authored with Akiko Takeda (U.Tokyo) &amp;ldquo;Generalized subdifferentials of spectral functions over Euclidean Jordan algebras&amp;rdquo; was accepted at the SIAM Journal on Optimization. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Convergence analysis under consistent error bounds&#34;</title>

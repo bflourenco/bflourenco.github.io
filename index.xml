@@ -6,10 +6,15 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The paper &#34;Generalized subdifferentials of spectral functions over Euclidean Jordan algebras&#34; was accepted at the SIAM Journal on Optimization</title>
+      <link>/news/2020/10/19/accepted-spectral-functions/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/10/19/accepted-spectral-functions/</guid>
+      <description>Our paper co-authored with Akiko Takeda (U.Tokyo) &amp;ldquo;Generalized subdifferentials of spectral functions over Euclidean Jordan algebras&amp;rdquo; was accepted at the SIAM Journal on Optimization. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Convergence analysis under consistent error bounds&#34;</title>
@@ -68,7 +73,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/students/</guid>
-      <description>My main affiliation is the Institute of Statistical Mathematics (ISM). Students supervised by ISM researchers are not affiliated directly to ISM, instead they are affiliated to SOKENDAI (The Graduate University for Advanced Studies). Therefore, if you want to be supervised by an ISM researcher you must pass the entrance examination for the Department of Statistical Sciences at SOKENDAI. However, after passing the examinations, research is actually conducted at the ISM facilities in Tachikawa, Tokyo.</description>
+      <description>My main affiliation is the Institute of Statistical Mathematics (ISM). Students supervised by ISM researchers are not affiliated directly to ISM, instead they are affiliated to SOKENDAI (The Graduate University for Advanced Studies). Therefore, if you want to be supervised by an ISM researcher you must pass the entrance examination for the Department of Statistical Science at SOKENDAI. However, after passing the examinations, research is actually conducted at the ISM facilities in Tachikawa, Tokyo.</description>
     </item>
     
     <item>
@@ -78,9 +83,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles Bruno F. Lourenço. Amenable cones: error bounds without constraint qualifications November 2017. Accepted at Mathematical Programming.
-[OO, arxiv]
-Masaru Ito; Bruno F. Lourenço. The automorphism group and the non-self-duality of p-cones, Journal of Mathematical Analysis and Applications, Volume 471(1-2), March 2019, 392-410.
+Articles Bruno F. Lourenço and Akiko Takeda. Generalized subdifferentials of spectral functions over Euclidean Jordan algebras, January 2019. Accepted at the SIAM Journal on Optimization.
+[arxiv]
+Bruno F. Lourenço. Amenable cones: error bounds without constraint qualifications, November 2017. Accepted at Mathematical Programming.
 [OO, arxiv]</description>
     </item>
     
