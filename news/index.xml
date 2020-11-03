@@ -6,7 +6,18 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New preprint &#34;Error bounds, facial residual functions and applications to the exponential cone&#34;</title>
+      <link>/news/2020/10/30/preprint-facial-residual-functions/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/10/30/preprint-facial-residual-functions/</guid>
+      <description>Available at arxiv
+Authors Scott B. Lindstrom (Hong Kong Poly. U.), Bruno F. Lourenço (ISM), (Hong Kong Poly. U.)
+Abstract We construct a general framework that can be used to derive error bounds for conic feasibility problems. In particular, our approach allows one to work with cones that fail to be amenable or even to have computable projections, two previously impassable barriers. For the purpose, we first show how error bounds may be constructed using objects called facial residual functions.</description>
+    </item>
+    
     <item>
       <title>The paper &#34;Generalized subdifferentials of spectral functions over Euclidean Jordan algebras&#34; was accepted at the SIAM Journal on Optimization</title>
       <link>/news/2020/10/19/accepted-spectral-functions/</link>
