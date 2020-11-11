@@ -6,7 +6,16 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The paper &#34;Solving SDP Completely with an Interior Point Oracle&#34; was accepted at the Optimization Methods and Software journal</title>
+      <link>/news/2020/11/11/accepted-solving-completely/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/11/11/accepted-solving-completely/</guid>
+      <description>Our paper co-authored with Masakazu Muramatsu (UEC), Takashi Tsuchiya (GRIPS) &amp;ldquo;Solving SDP Completely with an Interior Point Oracle&amp;rdquo; was accepted at the Optimization Methods and Software journal. [arxiv link]</description>
+    </item>
+    
     <item>
       <title>New preprint &#34;Error bounds, facial residual functions and applications to the exponential cone&#34;</title>
       <link>/news/2020/10/30/preprint-facial-residual-functions/</link>
@@ -96,8 +105,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
 Articles (New) Bruno F. Lourenço and Akiko Takeda. Generalized subdifferentials of spectral functions over Euclidean Jordan algebras, January 2019. Accepted at the SIAM Journal on Optimization.
 [arxiv]
-Bruno F. Lourenço. Amenable cones: error bounds without constraint qualifications, November 2017. Accepted at Mathematical Programming.
-[OO, arxiv]</description>
+(New) Bruno F. Lourenço; Masakazu Muramatsu; Takashi Tsuchiya. Solving SDP Completely with an Interior Point Oracle, July, 2015.</description>
     </item>
     
     <item>
