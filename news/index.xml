@@ -6,7 +6,18 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New preprint &#34;Amenable cones are particularly nice&#34;</title>
+      <link>/news/2020/11/17/preprint-amenable-cones/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2020/11/17/preprint-amenable-cones/</guid>
+      <description>Available at arxiv
+Authors Bruno F. Lourenço (ISM), Vera Roshchina (UNSW), James Saunderson (Monash U.)
+Abstract Amenability is a geometric property of convex cones that is stronger than facial exposedness and assists in the study of error bounds for conic feasibility problems. In this paper we establish numerous properties of amenable cones, and investigate the relationships between amenability and other properties of convex cones, such as niceness and projectional exposure.</description>
+    </item>
+    
     <item>
       <title>The paper &#34;Solving SDP Completely with an Interior Point Oracle&#34; was accepted at the Optimization Methods and Software journal</title>
       <link>/news/2020/11/11/accepted-solving-completely/</link>
