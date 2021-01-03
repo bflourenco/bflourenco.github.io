@@ -6,7 +6,11 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>New preprint &#34;Amenable cones are particularly nice&#34;</title>
       <link>/news/2020/11/17/preprint-amenable-cones/</link>
@@ -33,9 +37,9 @@ Abstract Amenability is a geometric property of convex cones that is stronger th
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/news/2020/10/30/preprint-facial-residual-functions/</guid>
-      <description>Available at arxiv
+      <description>Available at arxiv and and OO
 Authors Scott B. Lindstrom (Hong Kong Poly. U.), Bruno F. Lourenço (ISM), Ting Kei Pong (Hong Kong Poly. U.)
-Abstract We construct a general framework that can be used to derive error bounds for conic feasibility problems. In particular, our approach allows one to work with cones that fail to be amenable or even to have computable projections, two previously impassable barriers. For the purpose, we first show how error bounds may be constructed using objects called facial residual functions.</description>
+Abstract We construct a general framework for deriving error bounds for conic feasibility problems. In particular, our approach allows one to work with cones that fail to be amenable or even to have computable projections, two previously challenging barriers. For the purpose, we first show how error bounds may be constructed using objects called facial residual functions.</description>
     </item>
     
     <item>
