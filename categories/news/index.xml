@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Hyperbolicity cones are amenable&#34;</title>
+      <link>/news/2021/02/15/preprint-hyper-amenable/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2021/02/15/preprint-hyper-amenable/</guid>
+      <description>Available at arxiv
+Authors Bruno F. Lourenço (ISM), Vera Roshchina (UNSW), James Saunderson (Monash U.)
+Abstract Amenability is a notion of facial exposedness for convex cones that is stronger than being facially dual complete (or &amp;lsquo;nice&amp;rsquo;) which is, in turn, stronger than merely being facially exposed. Hyperbolicity cones are a family of algebraically structured closed convex cones that contain all spectrahedra (linear sections of positive semidefinite cones) as special cases. It is known that all spectrahedra are amenable.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Amenable cones are particularly nice&#34;</title>
