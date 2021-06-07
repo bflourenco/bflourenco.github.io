@@ -131,7 +131,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
 Articles (New) Bruno F. Lourenço and Akiko Takeda. Generalized subdifferentials of spectral functions over Euclidean Jordan algebras, SIAM Journal on Optimization, Volume 30 (4), 2020, 3387–3414.
 [OO, arxiv]
-(New) Bruno F. Lourenço; Masakazu Muramatsu; Takashi Tsuchiya. Solving SDP Completely with an Interior Point Oracle, January, 2021.</description>
+(New) Bruno F. Lourenço; Masakazu Muramatsu; Takashi Tsuchiya. Solving SDP Completely with an Interior Point Oracle, Optimization Methods and Software, Volume 36(2-3), 425-471.</description>
     </item>
     
     <item>
