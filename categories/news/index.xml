@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Tight error bounds and facial residual functions for the p-cones and beyond&#34;</title>
+      <link>/news/2021/09/27/preprint-p-error/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2021/09/27/preprint-p-error/</guid>
+      <description>Available at arxiv and OO
+Authors Scott B. Lindstrom (Curtin U.), Bruno F. Lourenço (ISM), Ting Kei Pong (Hong Kong Poly. U.)
+Abstract We prove tight Hölderian error bounds for all p-cones. Surprisingly, the exponents differ in several ways from those that have been previously conjectured; moreover, they illuminate p-cones as a curious example of a class of objects that possess properties in 3 dimensions that they do not in 4 or more.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Hyperbolicity cones are amenable&#34;</title>
