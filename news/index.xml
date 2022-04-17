@@ -6,10 +6,28 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Amenable cones are particularly nice&#34; was accepted at the the SIAM Journal on Optimization</title>
+      <link>/news/2022/04/17/accepted-amenable-nice/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/04/17/accepted-amenable-nice/</guid>
+      <description>Our paper co-authored with Vera Roshchina (UNSW) and James Saunderson (Monash University) &amp;ldquo;Amenable cones are particularly nice&amp;rdquo;, was accepted at the SIAM Journal on Optimization. [arxiv link]</description>
+    </item>
+    
+    <item>
+      <title>Presentation at OWOS</title>
+      <link>/news/2022/03/17/presentation-owos/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/03/17/presentation-owos/</guid>
+      <description>See video here and slides here</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Tight error bounds and facial residual functions for the p-cones and beyond&#34;</title>
