@@ -6,10 +6,32 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Self-dual polyhedral cones and their slack matrices&#34;</title>
+      <link>/news/2022/07/26/preprint-slack-self-dual/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/07/26/preprint-slack-self-dual/</guid>
+      <description>Available at arxiv.
+Authors João Gouveia (University of Coimbra), Bruno F. Lourenço (ISM)
+Abstract We analyze self-dual polyhedral cones and prove several properties about their slack matrices. In particular, we show that self-duality is equivalent to the existence of a positive semidefinite (PSD) slack. Beyond that, we show that if the underlying cone is irreducible, then the corresponding PSD slacks are not only doubly nonnegative matrices (DNN) but are extreme rays of the DNN matrices, which correspond to a family of extreme rays not previously described.</description>
+    </item>
+    
+    <item>
+      <title>New preprint &#34;Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations&#34;</title>
+      <link>/news/2022/07/25/preprint-hyper-aut/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/07/25/preprint-hyper-aut/</guid>
+      <description>Available at arxiv.
+Authors Masaru Ito (Nihon University), Bruno F. Lourenço (ISM)
+Abstract A hyperbolicity cone is said to be rank-one generated (ROG) if all its extreme rays have rank one, where the rank is computed with respect the underlying hyperbolic polynomial. This is a natural class of hyperbolicity cones which are strictly more general than the ROG spectrahedral cones. In this work, we present a study of the automorphisms of ROG hyperbolicity cones and their derivative relaxations.</description>
+    </item>
     
     <item>
       <title>The paper &#34;Convergence analysis under consistent error bounds&#34; was accepted at Foundations of Computational Mathematics</title>
