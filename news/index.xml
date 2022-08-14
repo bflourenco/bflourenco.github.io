@@ -6,10 +6,19 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Error bounds, facial residual functions and applications to the exponential cone&#34; was accepted at  Mathematical Programming</title>
+      <link>/news/2022/08/14/accepted-exp/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/08/14/accepted-exp/</guid>
+      <description>Our paper co-authored with Scott B. Lindstrom (Curtin University) and Ting Kei Pong (Hong Kong Polytechnic University) &amp;ldquo;Error bounds, facial residual functions and applications to the exponential cone&amp;rdquo;, was accepted at the Mathematical Programming journal. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Self-dual polyhedral cones and their slack matrices&#34;</title>

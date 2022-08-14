@@ -6,10 +6,19 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Error bounds, facial residual functions and applications to the exponential cone&#34; was accepted at  Mathematical Programming</title>
+      <link>/news/2022/08/14/accepted-exp/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/08/14/accepted-exp/</guid>
+      <description>Our paper co-authored with Scott B. Lindstrom (Curtin University) and Ting Kei Pong (Hong Kong Polytechnic University) &amp;ldquo;Error bounds, facial residual functions and applications to the exponential cone&amp;rdquo;, was accepted at the Mathematical Programming journal. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Self-dual polyhedral cones and their slack matrices&#34;</title>
@@ -198,9 +207,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Tianxiang Liu and Bruno F. Lourenço. Convergence analysis under consistent error bounds, To appear at Foundations of Computational Mathematics.
+Articles (New) Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Error bounds, facial residual functions and applications to the exponential cone, to appear at Mathematical Programming.
 [OO]
-(New) Bruno F. Lourenço and Gábor Pataki. A simplified treatment of Ramana&amp;rsquo;s exact dual for semidefinite programming, To appear at Optimization Letters.</description>
+(New) Tianxiang Liu and Bruno F. Lourenço. Convergence analysis under consistent error bounds, to appear at Foundations of Computational Mathematics.</description>
     </item>
     
     <item>
