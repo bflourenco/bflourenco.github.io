@@ -6,10 +6,21 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Optimal error bounds in the absence of constraint qualifications for the generalized power cones, and further applications&#34;</title>
+      <link>/news/2022/11/29/preprint-power-cones/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2022/11/29/preprint-power-cones/</guid>
+      <description>Available at arxiv.
+Authors Ying Lin (Hong Kong Poly. U.), Scott B. Lindstrom (Curtin U.), Bruno F. Lourenço (ISM), Ting Kei Pong (Hong Kong Poly. U.)
+Abstract Error bounds are a requisite for trusting or distrusting solutions in an informed way. Until recently, provable error bounds in the absence of constraint qualifications were unattainable for many classes of cones that do not admit projections with known succinct expressions. We build such error bounds for the generalized power cones, using the recently developed framework of one-step facial residual functions.</description>
+    </item>
     
     <item>
       <title>The paper &#34;A Limiting Analysis on Regularization of Singular SDP and its Implication to Infeasible Interior-point Algorithms&#34; was accepted at  Mathematical Programming</title>
@@ -189,6 +200,15 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/news/2020/04/01/moved-to-ism/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>(Some) Past Events</title>
+      <link>/past_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/past_events/</guid>
+      <description>2022  Matrix workshop on Convexity, Geometry and Computation, Creswick, Australia, 28 Nov - 2 Dec, 2022. International Workshop on Continuous Optimization, Online, December 3rd-4th, 2022. SIAM Conference on Optimization, Seattle, USA, May 31 - June 3, 2022. One World Optimization Seminar: March 14, 2022  2021  WOMBAT 2021: December 13-17, 2021 Workshop on Continuous Optimization and Related Topics: November 27-28, 2021 2021 INFORMS Annual Meeting: October 24-27, 2021 IFORS 2021 - Algorithms and theory for convex and nonconvex optimization: August 23-27, 2021 Seminar on Optimization Methods and Algorithms (in Japanese): July 30th, 2021 SIAM Conference on Optimization 2021: July 20 - 23, 2021 Variational Analysis and Optimisation Webinar: June 16th, 2021  2020  WoMBaT 2020: November 30th - December 4th, 2020  </description>
     </item>
     
     <item>
