@@ -6,10 +6,28 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations&#34; was accepted at the SIAM Journal on Applied Algebra and Geometry</title>
+      <link>/news/2023/01/27/accepted-hyper-aut/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/01/27/accepted-hyper-aut/</guid>
+      <description>Our paper co-authored with Masaru Ito (Nihon University) &amp;ldquo;Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations&amp;rdquo;, was accepted at the SIAM Journal on Applied Algebra and Geometry. [arxiv link]</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Random projections of linear and semidefinite problems with linear inequalities&#34; was accepted at Linear Algebra and its Applications</title>
+      <link>/news/2023/01/17/accepted-rand-proj-cone/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/01/17/accepted-rand-proj-cone/</guid>
+      <description>Our paper co-authored with Pierre-Louis Poirion (RIKEN-AIP) and Akiko Takeda (U. Tokyo) &amp;ldquo;Random projection of Linear and Semidefinite problem with linear inequalities&amp;rdquo;, was accepted at Linear Algebra and its Applications. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Optimal error bounds in the absence of constraint qualifications for the generalized power cones, and further applications&#34;</title>
@@ -236,9 +254,8 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Error bounds, facial residual functions and applications to the exponential cone, Mathematical Programming, 2022.
-[OO, arxiv, pdf]
-(New) Tianxiang Liu and Bruno F. Lourenço. Convergence analysis under consistent error bounds, to appear at Foundations of Computational Mathematics.</description>
+Articles (New) Masaru Ito; Bruno F. Lourenço. Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations, to appear at the SIAM Journal on Applied Algebra and Geometry.
+(New) Pierre-Louis Poirion; Bruno F. Lourenço; Akiko Takeda. Random projections of linear and semidefinite problems with linear inequalities, to appear at Linear Algebra and its Applications.</description>
     </item>
     
     <item>
