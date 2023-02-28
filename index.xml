@@ -6,10 +6,19 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Self-dual polyhedral cones and their slack matrices&#34; was accepted at the SIAM Journal on Matrix Analysis.</title>
+      <link>/news/2023/02/28/accepted-slack-poly/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/02/28/accepted-slack-poly/</guid>
+      <description>Our paper co-authored with João Gouveia (University of Coimbra) Self-dual polyhedral cones and their slack matrices&amp;rdquo; was accepted at the SIAM Journal on Matrix Analysis. [arxiv link]</description>
+    </item>
     
     <item>
       <title>The paper &#34;Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations&#34; was accepted at the SIAM Journal on Applied Algebra and Geometry</title>
@@ -254,8 +263,8 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Masaru Ito; Bruno F. Lourenço. Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations, to appear at the SIAM Journal on Applied Algebra and Geometry.
-(New) Pierre-Louis Poirion; Bruno F. Lourenço; Akiko Takeda. Random projections of linear and semidefinite problems with linear inequalities, to appear at Linear Algebra and its Applications.</description>
+Articles (New) João Gouveia; Bruno F. Lourenço. Self-dual polyhedral cones and their slack matrices, to appear at the SIAM Journal on Matrix Analysis.
+(New) Masaru Ito; Bruno F. Lourenço. Automorphisms of rank-one generated hyperbolicity cones and their derivative relaxations, to appear at the SIAM Journal on Applied Algebra and Geometry.</description>
     </item>
     
     <item>
