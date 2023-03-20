@@ -6,10 +6,19 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Hyperbolicity cones are amenable&#34; was accepted at the Mathematical Programming journal.</title>
+      <link>/news/2023/03/20/accepted-hyper-am/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/03/20/accepted-hyper-am/</guid>
+      <description>Our paper co-authored with Vera Roshchina (UNSW) and James Saunderson (Monash U.) was accepted at the Mathematical Programming journal. [arxiv link]</description>
+    </item>
     
     <item>
       <title>The paper &#34;Self-dual polyhedral cones and their slack matrices&#34; was accepted at the SIAM Journal on Matrix Analysis.</title>
