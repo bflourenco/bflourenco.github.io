@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Closing Duality Gaps of SDPs through Perturbation&#34;</title>
+      <link>/news/2023/04/10/preprint-dual-gap_perturb/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/04/10/preprint-dual-gap_perturb/</guid>
+      <description>Available at arxiv.
+Authors T. Tsuchiya (GRIPS), B. F. Lourenço (ISM), M. Muramatsu (UEC) and T. Okuno (Seikei University)
+Abstract Let \(({\bf P},{\bf D})\) be a primal-dual pair of SDPs with a nonzero finite duality gap. Under such circumstances, \({\bf P}\) and \({\bf D}\) are weakly feasible and if we perturb the problem data to recover strong feasibility, the (common) optimal value function \(v\) as a function of the perturbation is not well-defined at zero (unperturbed data) since there are &amp;ldquo;two different optimal values&amp;rdquo; \(v({\bf P})\) and \(v({\bf D})\), where \(v({\bf P})\) and \(v({\bf D})\) are the optimal values of \({\bf P}\) and \({\bf D}\) respectively.</description>
+    </item>
     
     <item>
       <title>The paper &#34;Hyperbolicity cones are amenable&#34; was accepted at the Mathematical Programming journal.</title>
