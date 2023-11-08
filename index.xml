@@ -6,10 +6,21 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Eigenvalue programming beyond matrices&#34;</title>
+      <link>/news/2023/09/28/preprint-dual-gap_perturb/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/09/28/preprint-dual-gap_perturb/</guid>
+      <description>Available at OO.
+Authors Masaru Ito (Nihon U.) and B. F. Lourenço (ISM)
+Abstract In this paper we analyze and solve eigenvalue programs, which consist of the task of minimizing a function subject to constraints on the &amp;ldquo;eigenvalues&amp;rdquo; of the decision variable. Here, by making use of the FTvN systems framework introduced by Gowda, we interpret &amp;ldquo;eigenvalues&amp;rdquo; in a broad fashion going beyond the usual eigenvalues of matrices. This allows us to shed new light on classical problems such as inverse eigenvalues problems and also leads to new applications.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Closing Duality Gaps of SDPs through Perturbation&#34;</title>
@@ -255,7 +266,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2023  SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023. Continuous optimization summer school 2023, Tokyo, Japan, 9 Aug - 11 Aug, 2023.  2022  Matrix workshop on Convexity, Geometry and Computation, Creswick, Australia, 28 Nov - 2 Dec, 2022. International Workshop on Continuous Optimization, Online, December 3rd-4th, 2022. SIAM Conference on Optimization, Seattle, USA, May 31 - June 3, 2022.</description>
+      <description>2023  ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023. SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023. Continuous optimization summer school 2023, Tokyo, Japan, 9 Aug - 11 Aug, 2023.  2022  Matrix workshop on Convexity, Geometry and Computation, Creswick, Australia, 28 Nov - 2 Dec, 2022. International Workshop on Continuous Optimization, Online, December 3rd-4th, 2022.</description>
     </item>
     
     <item>

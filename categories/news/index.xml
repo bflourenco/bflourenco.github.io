@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Eigenvalue programming beyond matrices&#34;</title>
+      <link>/news/2023/09/28/preprint-dual-gap_perturb/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/09/28/preprint-dual-gap_perturb/</guid>
+      <description>Available at OO.
+Authors Masaru Ito (Nihon U.) and B. F. Lourenço (ISM)
+Abstract In this paper we analyze and solve eigenvalue programs, which consist of the task of minimizing a function subject to constraints on the &amp;ldquo;eigenvalues&amp;rdquo; of the decision variable. Here, by making use of the FTvN systems framework introduced by Gowda, we interpret &amp;ldquo;eigenvalues&amp;rdquo; in a broad fashion going beyond the usual eigenvalues of matrices. This allows us to shed new light on classical problems such as inverse eigenvalues problems and also leads to new applications.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Closing Duality Gaps of SDPs through Perturbation&#34;</title>
