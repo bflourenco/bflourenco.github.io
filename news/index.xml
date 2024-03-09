@@ -6,10 +6,30 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Non-facial exposedness of copositive cones over symmetric cones&#34;</title>
+      <link>/news/2024/02/20/preprint-cop-sym/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/02/20/preprint-cop-sym/</guid>
+      <description>Available at arxiv.
+Authors Mitsuhiro Nishijima (Tokyo Tech) and B. F. Lourenço (ISM)
+Abstract In this paper, we consider copositive cones over symmetric cones and show that they are never facially exposed when the underlying cone has dimension at least 2. We do so by explicitly exhibiting a non-exposed extreme ray. Our result extends the known fact that the cone of copositive matrices over the nonnegative orthant is not facially exposed in general.</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Generalized power cones: optimal error bounds and automorphisms&#34; was accepted at the SIAM Journal on Optimization.</title>
+      <link>/news/2023/12/20/accepted-power-cone/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/12/20/accepted-power-cone/</guid>
+      <description>Our paper co-authored with Ying Lin (Hong Kong Poly. U.), Scott B. Lindstrom (Curtin U.) and Ting Kei Pong (Hong Kong Poly. U.) was accepted at the SIAM Journal on Optimization. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Eigenvalue programming beyond matrices&#34;</title>

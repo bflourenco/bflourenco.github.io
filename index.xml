@@ -6,10 +6,30 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Non-facial exposedness of copositive cones over symmetric cones&#34;</title>
+      <link>/news/2024/02/20/preprint-cop-sym/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/02/20/preprint-cop-sym/</guid>
+      <description>Available at arxiv.
+Authors Mitsuhiro Nishijima (Tokyo Tech) and B. F. Lourenço (ISM)
+Abstract In this paper, we consider copositive cones over symmetric cones and show that they are never facially exposed when the underlying cone has dimension at least 2. We do so by explicitly exhibiting a non-exposed extreme ray. Our result extends the known fact that the cone of copositive matrices over the nonnegative orthant is not facially exposed in general.</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Generalized power cones: optimal error bounds and automorphisms&#34; was accepted at the SIAM Journal on Optimization.</title>
+      <link>/news/2023/12/20/accepted-power-cone/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2023/12/20/accepted-power-cone/</guid>
+      <description>Our paper co-authored with Ying Lin (Hong Kong Poly. U.), Scott B. Lindstrom (Curtin U.) and Ting Kei Pong (Hong Kong Poly. U.) was accepted at the SIAM Journal on Optimization. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Eigenvalue programming beyond matrices&#34;</title>
@@ -266,7 +286,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2023  ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023. SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023. Continuous optimization summer school 2023, Tokyo, Japan, 9 Aug - 11 Aug, 2023.  2022  Matrix workshop on Convexity, Geometry and Computation, Creswick, Australia, 28 Nov - 2 Dec, 2022. International Workshop on Continuous Optimization, Online, December 3rd-4th, 2022.</description>
+      <description>2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023. ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023. SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023. Continuous optimization summer school 2023, Tokyo, Japan, 9 Aug - 11 Aug, 2023.  2022  Matrix workshop on Convexity, Geometry and Computation, Creswick, Australia, 28 Nov - 2 Dec, 2022.</description>
     </item>
     
     <item>
@@ -275,7 +295,16 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Employment  April 2020 - : Associate Professor at The Institute of Statistical Mathematics, Department of Statistical Inference and Mathematics, Mathematical Optimization Group April 2018 - March 2020: Assistant Professor at University of Tokyo, Department of Mathematical Informatics, Mathematical Programming Laboratory(数理5研). April 2018 - March 2021: Visiting fellow at Seikei Education and Research Center for Sustainable Development. April 2016 - March 2018: Assistant Professor at Seikei University, Department of Computer and Information Sciences, Laboratory of Modeling and Algorithms  Education   PhD in Mathematical and Computing Sciences</description>
+      <description>Employment  April 2020 - : Associate Professor at The Institute of Statistical Mathematics, Department of Fundamental Statistical Mathematics, Statistical Decision-Making Group April 2018 - March 2020: Assistant Professor at University of Tokyo, Department of Mathematical Informatics, Mathematical Programming Laboratory(数理5研). April 2018 - March 2021: Visiting fellow at Seikei Education and Research Center for Sustainable Development. April 2016 - March 2018: Assistant Professor at Seikei University, Department of Computer and Information Sciences, Laboratory of Modeling and Algorithms  Education   PhD in Mathematical and Computing Sciences</description>
+    </item>
+    
+    <item>
+      <title>Past visitors</title>
+      <link>/past_visitors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/past_visitors/</guid>
+      <description>2023  João Gouveia (University of Coimbra), Nov 7th - Dec 8th. Scott B. Lindstrom (Curtin University), Aug 31th - Sep 10th. Paulo J. S. Silva (State University of Campinas), Aug 28th - Aug 31th. Roberto Andreani (State University of Campinas), Aug 28th - Aug 31th. Emanuel Sallinger (TU Wien), Jul 10 - Jul 26. Ying Lin (The Hong Kong Polytechnic University), Mar 27. - Mar 31th.  Internship students  Aleksandar Pavlovic (TU Wien), Jun 30th - Aug 27th.</description>
     </item>
     
     <item>
@@ -294,9 +323,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) João Gouveia; Bruno F. Lourenço. Self-dual polyhedral cones and their slack matrices, SIAM Journal on Matrix Analysis, Vol. 44(3), 2023, pp. 1096-1121.
-[arxiv, online]
-(New) Bruno F. Lourenço; Vera Roshchina and James Saunderson. Hyperbolicity cones are amenable, to appear at the Mathematical Programming journal.</description>
+Articles (New) Ying Lin, Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Generalized power cones: optimal error bounds and automorphisms, to appear at the SIAM Journal on Optimization.
+[arxiv]
+(New) Bruno F. Lourenço; Vera Roshchina and James Saunderson. Hyperbolicity cones are amenable, Mathematical Programming, Volume 204, 2024, pp.</description>
     </item>
     
     <item>
@@ -325,9 +354,8 @@ Articles (New) João Gouveia; Bruno F. Lourenço. Self-dual polyhedral cones and
       
       <guid>/jp/</guid>
       <description>准教授 統計数理研究所/総合研究大学院大学
-数理・推論研究系/統計科学専攻
-数理最適化グループ
-メール: bruno &amp;ldquo;at&amp;rdquo; ism.ac.jp
+統計基盤数理研究系/統計科学専攻
+統計的意思決定研究グループ メール: bruno &amp;ldquo;at&amp;rdquo; ism.ac.jp
 研究テーマ：  錐線形最適化: アルゴリズム，前処理，悪条件問題の求解 錐非線形最適化: アルゴリズム，最適性条件 凸集合の幾何学とエラーバウンド 非平滑最適化  博士課程で指導を希望する学生さんへ  研究を行うための必要な知識はテーマによって異なりますが，線形代数と解析が大事です． 総合研究大学院大学複合科学研究科・統計科学専攻から受け入れ可能です．入試案内をご覧ください：  https://www.soken.ac.jp/admission/ https://www.ism.ac.jp/senkou/admission_policy.html    </description>
     </item>
     
