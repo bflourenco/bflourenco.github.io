@@ -6,10 +6,19 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Optimal error bounds in the absence of constraint qualifications with applications to the p-cones and beyond&#34; was accepted at Mathematics of Operations Research</title>
+      <link>/news/2024/03/26/accepted-p-cone/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/03/26/accepted-p-cone/</guid>
+      <description>Our paper co-authored with Scott B. Lindstrom (Curtin U.) and Ting Kei Pong (Hong Kong Poly. U.) was accepted at Mathematics of Operations Research. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Tight error bounds for log-determinant cones without constraint qualifications&#34;</title>
@@ -334,9 +343,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Ying Lin, Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Generalized power cones: optimal error bounds and automorphisms, to appear at the SIAM Journal on Optimization.
-[arxiv]
-(New) Bruno F. Lourenço; Vera Roshchina and James Saunderson. Hyperbolicity cones are amenable, Mathematical Programming, Volume 204, 2024, pp.</description>
+Articles (New) Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Optimal error bounds in the absence of constraint qualifications with applications to the p-cones and beyond, to appear at Mathematics of Operations Research.
+[OO]
+(New) Ying Lin, Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong.</description>
     </item>
     
     <item>

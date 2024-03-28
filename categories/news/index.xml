@@ -6,10 +6,19 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Optimal error bounds in the absence of constraint qualifications with applications to the p-cones and beyond&#34; was accepted at Mathematics of Operations Research</title>
+      <link>/news/2024/03/26/accepted-p-cone/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/03/26/accepted-p-cone/</guid>
+      <description>Our paper co-authored with Scott B. Lindstrom (Curtin U.) and Ting Kei Pong (Hong Kong Poly. U.) was accepted at Mathematics of Operations Research. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Tight error bounds for log-determinant cones without constraint qualifications&#34;</title>
