@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Minimal hyperbolic polynomials and ranks of homogeneous cones&#34;</title>
+      <link>/news/2024/04/05/preprint-min-hyp-rank/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/04/05/preprint-min-hyp-rank/</guid>
+      <description>Available at arxiv.
+Authors Masaru Ito (Nihon U.); João Gouveia (University of Coimbra); Bruno F. Lourenço (ISM).
+Abstract The starting point of this paper is the computation of minimal hyperbolic polynomials of duals of cones arising from chordal sparsity patterns. From that, we investigate the relation between ranks of homogeneous cones and their minimal polynomials. Along the way, we answer in the negative a question posed in an earlier paper and show examples of homogeneous cones that cannot be realized as rank-one generated (ROG) hyperbolicity cones.</description>
+    </item>
     
     <item>
       <title>The paper &#34;Optimal error bounds in the absence of constraint qualifications with applications to the p-cones and beyond&#34; was accepted at Mathematics of Operations Research</title>
