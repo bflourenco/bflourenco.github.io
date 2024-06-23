@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Projection onto hyperbolicity cones and beyond: a dual Frank-Wolfe approach&#34;</title>
+      <link>/news/2024/06/23/hyper_proj/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/06/23/hyper_proj/</guid>
+      <description>Available at OO.
+Authors Takayuki Nagano (U. Tokyo); Bruno F. Lourenço (ISM); Akiko Takeda (U. Tokyo).
+Abstract We discuss the problem of projecting a point onto an arbitrary hyperbolicity cone from both theoretical and numerical perspectives. While hyperbolicity cones are furnished with a generalization of the notion of eigenvalues, obtaining closed form expressions for the projection operator as in the case of semidefinite matrices is an elusive endeavour. To address that we propose a Frank-Wolfe method to handle this task and, more generally, strongly convex optimization over closed convex cones.</description>
+    </item>
     
     <item>
       <title>The paper &#34;Eigenvalue programming beyond matrices&#34; was accepted at Computational Optimization and Applications.</title>
