@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Concrete convergence rates for common fixed point problems under Karamata regularity&#34;</title>
+      <link>/news/2024/07/19/fix_karamata/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/07/19/fix_karamata/</guid>
+      <description>Available at OO, arxiv.
+Authors Tianxiang Liu (Tokyo Institute of Technology); Bruno F. Lourenço (ISM).
+Abstract We introduce the notion of Karamata regular operators, which is a notion of regularity that is suitable for obtaining concrete convergence rates for common fixed point problems. This provides a broad framework that includes, but goes beyond, Hölderian error bounds and Hölder regular operators. By concrete, we mean that the rates we obtain are explicitly expressed in terms of a function of the iteration number \({k}\) instead, of say, a function of the iterate \({x^k}\).</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Projection onto hyperbolicity cones and beyond: a dual Frank-Wolfe approach&#34;</title>

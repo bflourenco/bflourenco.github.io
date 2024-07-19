@@ -6,10 +6,21 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Concrete convergence rates for common fixed point problems under Karamata regularity&#34;</title>
+      <link>/news/2024/07/19/fix_karamata/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/07/19/fix_karamata/</guid>
+      <description>Available at OO, arxiv.
+Authors Tianxiang Liu (Tokyo Institute of Technology); Bruno F. Lourenço (ISM).
+Abstract We introduce the notion of Karamata regular operators, which is a notion of regularity that is suitable for obtaining concrete convergence rates for common fixed point problems. This provides a broad framework that includes, but goes beyond, Hölderian error bounds and Hölder regular operators. By concrete, we mean that the rates we obtain are explicitly expressed in terms of a function of the iteration number \({k}\) instead, of say, a function of the iterate \({x^k}\).</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Projection onto hyperbolicity cones and beyond: a dual Frank-Wolfe approach&#34;</title>
@@ -337,7 +348,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023. ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023. SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023. Continuous optimization summer school 2023, Tokyo, Japan, 9 Aug - 11 Aug, 2023.  2022  Matrix workshop on Convexity, Geometry and Computation, Creswick, Australia, 28 Nov - 2 Dec, 2022.</description>
+      <description>2024  6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.  2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023. ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023. SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023. Continuous optimization summer school 2023, Tokyo, Japan, 9 Aug - 11 Aug, 2023.</description>
     </item>
     
     <item>
@@ -375,7 +386,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
 Articles (New) Masaru Ito; Bruno F. Lourenço. Eigenvalue programming beyond matrices, to appear at Computational Optimization and Applications.
-[arxiv]
+[OO, arxiv]
 (New) Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Optimal error bounds in the absence of constraint qualifications with applications to the p-cones and beyond, to appear at Mathematics of Operations Research.</description>
     </item>
     
