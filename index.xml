@@ -6,10 +6,19 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Closing duality gaps of SDPs completely through perturbation when singularity degree is one&#34; was accepted at  Optimization Methods and Software.</title>
+      <link>/news/2024/09/24/accepted-perturb-gap/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/09/24/accepted-perturb-gap/</guid>
+      <description>Our paper co-authored with T. Tsuchiya (GRIPS), M. Muramatsu (UEC) and T. Okuno (Seikei University) was accepted at Optimization Methods and Software. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Concrete convergence rates for common fixed point problems under Karamata regularity&#34;</title>
@@ -348,7 +357,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2024  ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.  2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023. ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023. SIAM Conference on Optimization, Seattle, USA, 31 May - 3 June, 2023. ILAS 2023, Madrid, Spain, 12 June - 16 June, 2023.</description>
+      <description>2024  OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024. ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.  2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023. ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023.</description>
     </item>
     
     <item>
@@ -366,7 +375,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_visitors/</guid>
-      <description>2023  João Gouveia (University of Coimbra), Nov 7th - Dec 8th. Scott B. Lindstrom (Curtin University), Aug 31th - Sep 10th. Paulo J. S. Silva (State University of Campinas), Aug 28th - Aug 31th. Roberto Andreani (State University of Campinas), Aug 28th - Aug 31th. Emanuel Sallinger (TU Wien), Jul 10 - Jul 26. Ying Lin (The Hong Kong Polytechnic University), Mar 27. - Mar 31th.  Internship students  Aleksandar Pavlovic (TU Wien), Jun 30th - Aug 27th.</description>
+      <description>2024  Vera Roshchina (University of New South Wales), Jun 7th - Jul 13th  2023  João Gouveia (University of Coimbra), Nov 7th - Dec 8th. Scott B. Lindstrom (Curtin University), Aug 31th - Sep 10th. Paulo J. S. Silva (State University of Campinas), Aug 28th - Aug 31th. Roberto Andreani (State University of Campinas), Aug 28th - Aug 31th. Emanuel Sallinger (TU Wien), Jul 10 - Jul 26. Ying Lin (The Hong Kong Polytechnic University), Mar 27.</description>
     </item>
     
     <item>
@@ -385,9 +394,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Masaru Ito; Bruno F. Lourenço. Eigenvalue programming beyond matrices, to appear at Computational Optimization and Applications.
+Articles (New) Masaru Ito; Bruno F. Lourenço. Eigenvalue programming beyond matrices, Computational Optimization and Applications, Vol. 89, 2024, pp. 361-384.
 [OO, arxiv]
-(New) Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Optimal error bounds in the absence of constraint qualifications with applications to the p-cones and beyond, to appear at Mathematics of Operations Research.</description>
+(New) Takashi Tsuchiya; Bruno F. Lourenço; Masakazu Muramatsu and Takayuki Okuno. Closing duality gaps of SDPs completely through perturbation when singularity degree is one, Optimization Methods and Software, Vol.</description>
     </item>
     
     <item>
