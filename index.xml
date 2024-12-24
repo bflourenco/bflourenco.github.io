@@ -6,10 +6,30 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Faces of homogeneous cones and applications to homogeneous chordality&#34;</title>
+      <link>/news/2024/12/20/faces_hom/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/12/20/faces_hom/</guid>
+      <description>Available at OO.
+Authors Masaru Ito (Nihon U.); João Gouveia (University of Coimbra); Bruno F. Lourenço (ISM).
+Abstract A convex cone K is said to be homogeneous if its group of automorphisms acts transitively on its relative interior. Important examples of homogeneous cones include symmetric cones and cones of positive semidefinite (PSD) matrices that follow a sparsity pattern given by a homogeneous chordal graph. Our goal in this paper is to elucidate the facial structure of homogeneous cones and make it as transparent as the faces of the PSD matrices.</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Non-facial exposedness of copositive cones over symmetric cones&#34; was accepted at  the Journal of Mathematical Analysis and Applications.</title>
+      <link>/news/2024/12/10/accepted-face-cop/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/12/10/accepted-face-cop/</guid>
+      <description>Our paper co-authored with Mitsuhiro Nishijima (RIKEN) was accepted at the Journal of Mathematical Analysis and Applications. [arxiv link]</description>
+    </item>
     
     <item>
       <title>The paper &#34;Closing duality gaps of SDPs completely through perturbation when singularity degree is one&#34; was accepted at  Optimization Methods and Software.</title>
@@ -357,7 +377,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2024  OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024. ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.  2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023. ICIAM 2023 (Sessions: 00815 and 00521), Tokyo, Japan, 20 Aug - 25 Aug, 2023.</description>
+      <description>2024  OCAMI Workshop, Osaka Metropolitan University, Dec 4 - Dec 5, 2024. OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024. ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.  2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023.</description>
     </item>
     
     <item>
@@ -394,9 +414,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Masaru Ito; Bruno F. Lourenço. Eigenvalue programming beyond matrices, Computational Optimization and Applications, Vol. 89, 2024, pp. 361-384.
-[OO, arxiv]
-(New) Takashi Tsuchiya; Bruno F. Lourenço; Masakazu Muramatsu and Takayuki Okuno. Closing duality gaps of SDPs completely through perturbation when singularity degree is one, Optimization Methods and Software, Vol.</description>
+Articles (New) Mitsuhiro Nishijima; Bruno F. Lourenço. Non-facial exposedness of copositive cones over symmetric cones, Journal of Mathematical Analysis and Applications, Vol. 545(2), 2025.
+[arxiv]
+(New) Masaru Ito; Bruno F. Lourenço. Eigenvalue programming beyond matrices, Computational Optimization and Applications, Vol. 89, 2024, pp. 361-384.</description>
     </item>
     
     <item>

@@ -6,10 +6,30 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Faces of homogeneous cones and applications to homogeneous chordality&#34;</title>
+      <link>/news/2024/12/20/faces_hom/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/12/20/faces_hom/</guid>
+      <description>Available at OO.
+Authors Masaru Ito (Nihon U.); João Gouveia (University of Coimbra); Bruno F. Lourenço (ISM).
+Abstract A convex cone K is said to be homogeneous if its group of automorphisms acts transitively on its relative interior. Important examples of homogeneous cones include symmetric cones and cones of positive semidefinite (PSD) matrices that follow a sparsity pattern given by a homogeneous chordal graph. Our goal in this paper is to elucidate the facial structure of homogeneous cones and make it as transparent as the faces of the PSD matrices.</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Non-facial exposedness of copositive cones over symmetric cones&#34; was accepted at  the Journal of Mathematical Analysis and Applications.</title>
+      <link>/news/2024/12/10/accepted-face-cop/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2024/12/10/accepted-face-cop/</guid>
+      <description>Our paper co-authored with Mitsuhiro Nishijima (RIKEN) was accepted at the Journal of Mathematical Analysis and Applications. [arxiv link]</description>
+    </item>
     
     <item>
       <title>The paper &#34;Closing duality gaps of SDPs completely through perturbation when singularity degree is one&#34; was accepted at  Optimization Methods and Software.</title>
