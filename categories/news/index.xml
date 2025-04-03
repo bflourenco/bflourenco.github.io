@@ -6,10 +6,30 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Tight error bounds for log-determinant cones without constraint qualifications&#34; was accepted at the Journal of Optimization Theory and Applications.</title>
+      <link>/news/2025/02/26/accepted-logdet-er/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/02/26/accepted-logdet-er/</guid>
+      <description>Our paper co-authored with Ying Lin (Hong Kong Poly. U.), Scott B. Lindstrom (Curtin U.) and Ting Kei Pong (Hong Kong Poly. U.) was accepted at the Journal of Optimization Theory and Applications. [arxiv link]</description>
+    </item>
+    
+    <item>
+      <title>New preprint &#34;Facial structure of copositive and completely positive cones over a second-order cone&#34;</title>
+      <link>/news/2025/02/06/preprint-cop-soc/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/02/06/preprint-cop-soc/</guid>
+      <description>Available at arxiv.
+Authors Mitsuhiro Nishijima (RIKEN-AIP) and B. F. Lourenço (ISM)
+Abstract We classify the faces of copositive and completely positive cones over a second-order cone and investigate their dimension and exposedness properties. Then we compute two parameters related to chains of faces of both cones. At the end, we discuss some possible extensions of the results with a view toward analyzing the facial structure of general copositive and completely positive cones.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Faces of homogeneous cones and applications to homogeneous chordality&#34;</title>

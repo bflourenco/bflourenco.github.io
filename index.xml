@@ -6,10 +6,30 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Tight error bounds for log-determinant cones without constraint qualifications&#34; was accepted at the Journal of Optimization Theory and Applications.</title>
+      <link>/news/2025/02/26/accepted-logdet-er/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/02/26/accepted-logdet-er/</guid>
+      <description>Our paper co-authored with Ying Lin (Hong Kong Poly. U.), Scott B. Lindstrom (Curtin U.) and Ting Kei Pong (Hong Kong Poly. U.) was accepted at the Journal of Optimization Theory and Applications. [arxiv link]</description>
+    </item>
+    
+    <item>
+      <title>New preprint &#34;Facial structure of copositive and completely positive cones over a second-order cone&#34;</title>
+      <link>/news/2025/02/06/preprint-cop-soc/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/02/06/preprint-cop-soc/</guid>
+      <description>Available at arxiv.
+Authors Mitsuhiro Nishijima (RIKEN-AIP) and B. F. Lourenço (ISM)
+Abstract We classify the faces of copositive and completely positive cones over a second-order cone and investigate their dimension and exposedness properties. Then we compute two parameters related to chains of faces of both cones. At the end, we discuss some possible extensions of the results with a view toward analyzing the facial structure of general copositive and completely positive cones.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Faces of homogeneous cones and applications to homogeneous chordality&#34;</title>
@@ -377,7 +397,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2024  OCAMI Workshop, Osaka Metropolitan University, Dec 4 - Dec 5, 2024. OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024. ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.  2023  RAMP 2023, Tokyo Institute of Technology, November 20-21, 2023.</description>
+      <description>2025  MATRIX - Splitting Algorithms, Creswick, Australia, 10 Fev - 21 Fev, 2025.  2024  OCAMI Workshop, Osaka Metropolitan University, Dec 4 - Dec 5, 2024. OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024. ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.</description>
     </item>
     
     <item>
@@ -386,7 +406,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Employment  April 2020 - : Associate Professor at The Institute of Statistical Mathematics, Department of Fundamental Statistical Mathematics, Statistical Decision-Making Group April 2018 - March 2020: Assistant Professor at University of Tokyo, Department of Mathematical Informatics, Mathematical Programming Laboratory(数理5研). April 2018 - March 2021: Visiting fellow at Seikei Education and Research Center for Sustainable Development. April 2016 - March 2018: Assistant Professor at Seikei University, Department of Computer and Information Sciences, Laboratory of Modeling and Algorithms  Education   PhD in Mathematical and Computing Sciences</description>
+      <description>Employment  April 2025 - : Visiting Associate Professor at RIMS-Kyoto University April 2020 - : Associate Professor at The Institute of Statistical Mathematics, Department of Fundamental Statistical Mathematics, Statistical Decision-Making Group April 2018 - March 2020: Assistant Professor at University of Tokyo, Department of Mathematical Informatics, Mathematical Programming Laboratory(数理5研). April 2018 - March 2021: Visiting fellow at Seikei Education and Research Center for Sustainable Development. April 2016 - March 2018: Assistant Professor at Seikei University, Department of Computer and Information Sciences, Laboratory of Modeling and Algorithms  Education   PhD in Mathematical and Computing Sciences</description>
     </item>
     
     <item>
@@ -395,7 +415,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_visitors/</guid>
-      <description>2024  Vera Roshchina (University of New South Wales), Jun 7th - Jul 13th  2023  João Gouveia (University of Coimbra), Nov 7th - Dec 8th. Scott B. Lindstrom (Curtin University), Aug 31th - Sep 10th. Paulo J. S. Silva (State University of Campinas), Aug 28th - Aug 31th. Roberto Andreani (State University of Campinas), Aug 28th - Aug 31th. Emanuel Sallinger (TU Wien), Jul 10 - Jul 26. Ying Lin (The Hong Kong Polytechnic University), Mar 27.</description>
+      <description>2024  Vera Roshchina (University of New South Wales), Jun 7th - Jul 13th  Internship students  Casey Garner (University of Minnesota), Jan 6th - Feb 1st. (ISM International Internship program) Mitsuhiro Nishijima (Tokyo Institute of Technology), April 1st - September 30th. (ISM Research Internship program)  2023  João Gouveia (University of Coimbra), Nov 7th - Dec 8th. Scott B. Lindstrom (Curtin University), Aug 31th - Sep 10th. Paulo J.</description>
     </item>
     
     <item>
@@ -414,9 +434,8 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Mitsuhiro Nishijima; Bruno F. Lourenço. Non-facial exposedness of copositive cones over symmetric cones, Journal of Mathematical Analysis and Applications, Vol. 545(2), 2025.
-[arxiv]
-(New) Masaru Ito; Bruno F. Lourenço. Eigenvalue programming beyond matrices, Computational Optimization and Applications, Vol. 89, 2024, pp. 361-384.</description>
+Articles (New) Ying Lin, Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Tight error bounds for log-determinant cones without constraint qualifications, March 2025, to appear at the Journal of Optimization Theory and Applications.
+(New) Mitsuhiro Nishijima; Bruno F. Lourenço. Non-facial exposedness of copositive cones over symmetric cones, Journal of Mathematical Analysis and Applications, Vol.</description>
     </item>
     
     <item>
