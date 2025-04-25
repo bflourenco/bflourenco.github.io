@@ -6,10 +6,30 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;On the equivalence of a Hessian-free inequality and Lipschitz continuous Hessian&#34;</title>
+      <link>/news/2025/04/25/preprint-hessian-free/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/04/25/preprint-hessian-free/</guid>
+      <description>Available at arxiv.
+Authors Radu I. Boţ (Vienna U.), Minh N. Dao (RMIT), Tianxiang Liu (Institute of Science Tokyo), Bruno F. Lourenço (ISM) and Naoki Marumo (U. Tokyo)
+Abstract It is known that if a twice differentiable function has a Lipschitz continuous Hessian, then its gradients satisfy a Jensen-type inequality. In particular, this inequality is Hessian-free in the sense that the Hessian does not actually appear in the inequality. In this paper, we show that the converse holds in a generalized setting: if a continuous function from a Hilbert space to a reflexive Banach space satisfies such an inequality, then it is Fréchet differentiable and its derivative is Lipschitz continuous.</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Minimal hyperbolic polynomials and ranks of homogeneous cones&#34; was accepted at the Journal of Convex Analysis.</title>
+      <link>/news/2025/03/16/accepted-hcone-poly/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/03/16/accepted-hcone-poly/</guid>
+      <description>Our paper co-authored with João Gouveia (Coimbra U.) and Masaru Ito (Nihon U.) was accepted at the Journal of Convex Analysis. [arxiv link]</description>
+    </item>
     
     <item>
       <title>The paper &#34;Tight error bounds for log-determinant cones without constraint qualifications&#34; was accepted at the Journal of Optimization Theory and Applications.</title>
