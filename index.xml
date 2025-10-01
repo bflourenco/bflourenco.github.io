@@ -6,10 +6,21 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Error bounds for perspective cones of a class of nonnegative Legendre functions&#34;</title>
+      <link>/news/2025/10/01/preprint-error-legendre/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/10/01/preprint-error-legendre/</guid>
+      <description>Available at arxiv.
+Authors Xiaozhou Wang (South China Normal University), Bruno F. Lourenço (ISM) and Ting Kei Pong (Hong Kong Polytechnic University)
+Abstract Error bounds play a central role in the study of conic optimization problems, including the analysis of convergence rates for numerous algorithms. Curiously, those error bounds are often Hölderian with exponent 1/2. In this paper, we try to explain the prevalence of the 1/2 exponent by investigating generic properties of error bounds for conic feasibility problems where the underlying cone is a perspective cone constructed from a nonnegative Legendre function on \(\mathbb{R}\).</description>
+    </item>
     
     <item>
       <title>New preprint &#34;On the equivalence of a Hessian-free inequality and Lipschitz continuous Hessian&#34;</title>
@@ -417,7 +428,7 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/past_events/</guid>
-      <description>2025  7th DOxML, Kyoto, Japan, May 12-16, 2025. MATRIX - Splitting Algorithms, Creswick, Australia, 10 Fev - 21 Fev, 2025.  2024  OCAMI Workshop, Osaka Metropolitan University, Dec 4 - Dec 5, 2024. OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024. ISMP 2024, Montreal, Canada, July 21-26, 2024. 6th DOxML, Tokyo, Japan, July 8-10, 2024. MoCaO Lectures: Geometry and Convexity in Optimisation, Sydney, Australia (Online), July 15-19, 2024.</description>
+      <description>2025  OPTDS2025, Komazawa University, Japan, Sep 24-29, 2025 Muramatsu-sensei&amp;rsquo;s 60th birthday workshop, University of Electro-Communications, Japan, August 27, 2025 7th DOxML, Kyoto, Japan, May 12-16, 2025. MATRIX - Splitting Algorithms, Creswick, Australia, 10 Fev - 21 Fev, 2025.  2024  OCAMI Workshop, Osaka Metropolitan University, Dec 4 - Dec 5, 2024. OCA 2024, University of Electro-Communications, Tokyo, Japan, September 24 - 27, 2024. RAMP 2024, Himeji, Japan, November 18-19, 2024.</description>
     </item>
     
     <item>
