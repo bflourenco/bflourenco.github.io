@@ -6,10 +6,21 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New preprint &#34;Facial reduction for nice (and non-nice) convex programs&#34;</title>
+      <link>/news/2025/12/18/preprint-nice-sets/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2025/12/18/preprint-nice-sets/</guid>
+      <description>Available at OO.
+Authors Ying Lin (The University of Hong Kong), Tianxiang Liu (University of Tsukuba) and Bruno F. Lourenço (ISM)
+Abstract Consider the primal problem of minimizing the sum of two closed proper convex functions \(f\) and \(g\). If the relative interiors of the domains of \(f\) and \(g\) intersect, then the primal problem and its corresponding Fenchel dual satisfy strong duality. When these relative interiors fail to intersect, pathologies and numerical difficulties may occur.</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Error bounds for perspective cones of a class of nonnegative Legendre functions&#34;</title>
