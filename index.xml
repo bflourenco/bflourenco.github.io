@@ -6,10 +6,19 @@
     <description>Recent content in Home on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Concrete convergence rates for common fixed point problems under Karamata regularity&#34; was accepted at  Mathematical Programming.</title>
+      <link>/news/2026/02/02/accepted-fix_karamata/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2026/02/02/accepted-fix_karamata/</guid>
+      <description>Our paper co-authored with Tianxiang Liu (University of Tsukuba) was accepted at the Mathematical Programming journal. [arxiv link]</description>
+    </item>
     
     <item>
       <title>New preprint &#34;Facial reduction for nice (and non-nice) convex programs&#34;</title>
@@ -476,8 +485,9 @@ Abstract The Johnson-Lindenstrauss Lemma states that there exist linear maps tha
       
       <guid>/publications/</guid>
       <description>If you have comments/questions about the papers below, feel free to contact me. All my work on optimization is available on arxiv or Optimization Online (OO).
-Articles (New) Masaru Ito; João Gouveia and Bruno F. Lourenço. Minimal hyperbolic polynomials and ranks of homogeneous cones, March 2025, to appear at the Journal of Convex Analysis.
-(New) Ying Lin, Scott B. Lindstrom; Bruno F. Lourenço and Ting Kei Pong. Tight error bounds for log-determinant cones without constraint qualifications, Journal of Optimization Theory and Applications, Vol.</description>
+Articles (New) Tianxiang Liu; Bruno F. Lourenço. Concrete convergence rates for common fixed point problems under Karamata regularity, January 2026, to appear at Mathematical Programming.
+[OO]
+(New) Masaru Ito; João Gouveia and Bruno F. Lourenço. Minimal hyperbolic polynomials and ranks of homogeneous cones, March 2025, to appear at the Journal of Convex Analysis.</description>
     </item>
     
     <item>
