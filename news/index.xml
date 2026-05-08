@@ -6,10 +6,28 @@
     <description>Recent content in News on Bruno F. Lourenço</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The paper &#34;Projection onto hyperbolicity cones and beyond: a dual Frank-Wolfe approach&#34; was accepted at  Mathematical Programming.</title>
+      <link>/news/2026/05/04/accepted-hyper_proj/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2026/05/04/accepted-hyper_proj/</guid>
+      <description>Our paper co-authored with Takayuki Nagano (U. Tokyo) and Akiko Takeda (U. Tokyo) was accepted at the Mathematical Programming journal. [arxiv link]</description>
+    </item>
+    
+    <item>
+      <title>The paper &#34;Facial structure of copositive and completely positive cones over a second-order cone&#34; was accepted at  Linear Algebra and its Applications.</title>
+      <link>/news/2026/04/21/accepted-preprint-cop-soc/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2026/04/21/accepted-preprint-cop-soc/</guid>
+      <description>Our paper co-authored with Mitsuhiro Nishijima (Keio U.) was accepted at the Linear Algebra and its Applications journal. [arxiv link]</description>
+    </item>
     
     <item>
       <title>The paper &#34;Concrete convergence rates for common fixed point problems under Karamata regularity&#34; was accepted at  Mathematical Programming.</title>
